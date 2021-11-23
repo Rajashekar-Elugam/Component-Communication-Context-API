@@ -1,0 +1,13 @@
+.container {
+    width: 400px;
+    height: auto;
+    border: 3px dashed royalblue;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.title {
+    color: blueviolet;
+    text-decoration: underline;
+}
